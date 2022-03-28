@@ -1,0 +1,20 @@
+idanorg, alonmarko208
+Idan Orgad 206281388, Alon Markovich 313454902
+EX: 1
+
+FILES:
+osm.cpp -- A library with functions that estimate the running time of operations.
+Makefile -- A given exercise file from the project.
+ex1pic.jpeg-- Graph of elapsed average time of different operations.
+README -- A brief description to the exercise.
+
+REMARKS:
+none
+
+ANSWERS:
+
+Assignment 1
+With a single argument - creates a directory named "Welcome" and then creates "To" directory inside "Welcome", open the folder
+and a file  in that path. Then, it writes a message to the user (i.e writes the username too) to read the courst guidline. Then it closes the file and removes it, and deletes the folders as well. 
+
+
